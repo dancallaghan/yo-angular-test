@@ -408,7 +408,7 @@ module.exports = function (grunt) {
         dir:     'dist',
         commit:  true,
         push:    true,
-        remote:  'git@github.com:jsntv200/yo-angular-test.git',
+        remote:  'git@github.com:dancallaghan/yo-angular-test.git',
         message: 'Built %sourceName% from commit %sourceCommit% on branch %sourceBranch%'
       },
       production: {
