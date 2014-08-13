@@ -405,7 +405,6 @@ module.exports = function (grunt) {
 
     buildcontrol: {
       options: {
-        dir:     'dist',
         commit:  true,
         push:    true,
         remote:  'git@github.com:dancallaghan/yo-angular-test.git',
